@@ -1,2 +1,2 @@
 # Bee_Crowd_Exercices
-Solutions for BeeCrowd exercices
+Exercicing python with BeeCrowd and storing the solutions
