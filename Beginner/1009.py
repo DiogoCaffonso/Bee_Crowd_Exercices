@@ -1,0 +1,5 @@
+name = input()
+f = float(input())
+v = float(input())
+t = "{:.2f}".format(f+(15/100)*v)
+print(f"TOTAL = R$ {t}")
