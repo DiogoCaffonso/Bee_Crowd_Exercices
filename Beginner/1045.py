@@ -18,3 +18,6 @@ else:
         print("TRIANGULO EQUILATERO")
     elif A == B or A == C or B == C:
         print("TRIANGULO ISOSCELES")
+
+
+print("oi")
